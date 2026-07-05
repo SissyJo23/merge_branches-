@@ -1,0 +1,4 @@
+$ git branch -vv
+  bug-fix-revert b1a2c3d [origin/bug-fix-revert] Revert "fix typo"
+  bug-fix-typo   9a2c3b4 [origin/bug-fix-typo] fix typo in footer
+* main           7bf4a12 [origin/main] Initial commit
